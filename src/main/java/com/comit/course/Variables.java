@@ -28,7 +28,7 @@ public class Variables {
 	  	/*
 	   	 * Text Variables
 	   	 */
-	   	
+	   	int x=0;
 	  	char g = 'A'; // 2 bytes
 	   	
 	   	
@@ -54,7 +54,11 @@ public class Variables {
 	  	}
 	  	else {
 	  		System.out.println("Not Equal " + s1 + "-" + s2 );
+
 	  	}
-	   	
+          System.out.println("this is a modification");
+
 		}
+
+	  
 	}
